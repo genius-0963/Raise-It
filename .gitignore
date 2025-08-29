@@ -1,3 +1,7 @@
+# Ignore all directories except raiseit-platform-main
+/*
+!/raiseit-platform-main/
+
 # Dependencies
 node_modules/
 
